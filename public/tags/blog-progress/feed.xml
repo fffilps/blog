@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>J&#39;mari Wyatt&#39;s Blog</title>
+      <link>https://blog.jmariwyatt.com/blog</link>
+      <description>A blog created to keep you updated on my happenings.</description>
+      <language>en-us</language>
+      <managingEditor>jmariwyatt@gmail.com (J'mari Wyatt)</managingEditor>
+      <webMaster>jmariwyatt@gmail.com (J'mari Wyatt)</webMaster>
+      <lastBuildDate>Wed, 21 Dec 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.jmariwyatt.com/tags/blog-progress/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.jmariwyatt.com/blog/welcome-to-my-blog</guid>
+    <title>Welcome To My Blog</title>
+    <link>https://blog.jmariwyatt.com/blog/welcome-to-my-blog</link>
+    <description>Welcome to my first ever blog post! I&#39;m excited to share my thoughts, ideas, and musings with all of you. Now, let&#39;s be real - this post was a bit rushed. I may have procrastinated a bit too long and then frantically typed away the night before it was due. But despite the late nights and frazzled nerves, I&#39;m proud of what I&#39;ve created and can&#39;t wait to hear what you think. So sit back, relax, and join me on this wild ride of blogging! (created using AI btw :p )</description>
+    <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
+    <author>jmariwyatt@gmail.com (J'mari Wyatt)</author>
+    <category>jmari wyatt</category><category>daily blog</category><category>ai</category><category>blog progress</category>
+  </item>
+
+    </channel>
+  </rss>
