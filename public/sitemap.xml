@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://blog.jmariwyatt.com/about</loc>
+  </url>
+
+  <url>
+    <loc>https://blog.jmariwyatt.com/blog</loc>
+  </url>
+
+  <url>
+    <loc>https://blog.jmariwyatt.com</loc>
+  </url>
+
+  <url>
+    <loc>https://blog.jmariwyatt.com/projects</loc>
+  </url>
+
+  <url>
+    <loc>https://blog.jmariwyatt.com/tags</loc>
+  </url>
+
+  <url>
+    <loc>https://blog.jmariwyatt.com/blog/welcome-to-my-blog</loc>
+  </url>
+
+  <url>
+    <loc>https://blog.jmariwyatt.com/tags/ai</loc>
+  </url>
+
+  <url>
+    <loc>https://blog.jmariwyatt.com/tags/blog-progress</loc>
+  </url>
+
+  <url>
+    <loc>https://blog.jmariwyatt.com/tags/daily-blog</loc>
+  </url>
+
+  <url>
+    <loc>https://blog.jmariwyatt.com/tags/jmari-wyatt</loc>
+  </url>
+</urlset>
